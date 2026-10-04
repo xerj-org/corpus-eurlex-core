@@ -1,0 +1,5 @@
+GDPR — Recital 99
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_99"); fetched 2026-10-04
+
+(99) When drawing up a code of conduct, or when amending or extending such a code, associations and other bodies representing categories of controllers or processors should consult relevant stakeholders, including data subjects where feasible, and have regard to submissions received and views expressed in response to such consultations.

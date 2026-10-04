@@ -1,0 +1,14 @@
+DMA — Article 33
+Limitation periods for the enforcement of penalties
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_33"); fetched 2026-10-04
+
+1. The power of the Commission to enforce decisions taken pursuant to Articles 30 and 31 shall be subject to a limitation period of 5 years.
+2. Time shall begin to run from the day on which the decision becomes final.
+3. The limitation period for the enforcement of penalties shall be interrupted:
+(a) by notification of a decision varying the original amount of the fine or periodic penalty payment or refusing an application for variation; or
+(b) by any action of the Commission or of a Member State, acting at the request of the Commission, designed to enforce payment of the fine or periodic penalty payment.
+4. Each interruption shall start time running afresh.
+5. The limitation period for the enforcement of penalties shall be suspended for so long as:
+(a) time to pay is allowed; or
+(b) enforcement of payment is suspended pursuant to a decision of the Court of Justice or to a decision by a national court.

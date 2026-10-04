@@ -1,0 +1,5 @@
+DSA — Recital 23
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_23"); fetched 2026-10-04
+
+(23) The exemption of liability should not apply where the recipient of the service is acting under the authority or the control of the provider of a hosting service. For example, where the provider of an online platform that allows consumers to conclude distance contracts with traders determines the price of the goods or services offered by the trader, it could be considered that the trader acts under the authority or control of that online platform.

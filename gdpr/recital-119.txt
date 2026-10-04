@@ -1,0 +1,5 @@
+GDPR — Recital 119
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_119"); fetched 2026-10-04
+
+(119) Where a Member State establishes several supervisory authorities, it should establish by law mechanisms for ensuring the effective participation of those supervisory authorities in the consistency mechanism. That Member State should in particular designate the supervisory authority which functions as a single contact point for the effective participation of those authorities in the mechanism, to ensure swift and smooth cooperation with other supervisory authorities, the Board and the Commission.

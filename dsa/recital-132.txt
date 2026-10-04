@@ -1,0 +1,5 @@
+DSA — Recital 132
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_132"); fetched 2026-10-04
+
+(132) The Board should contribute to achieving a common Union perspective on the consistent application of this Regulation and to the cooperation among competent authorities, including by advising the Commission and the Digital Services Coordinators about appropriate investigation and enforcement measures, in particular vis à vis the providers of very large online platforms or of very large online search engines and having regard, in particular, to the freedom of the providers of intermediary services to provide services across the Union. The Board should also contribute to the drafting of relevant templates and codes of conduct and to the analysis of emerging general trends in the development of digital services in the Union, including by issuing opinions or recommendations on matters related to standards.

@@ -1,0 +1,5 @@
+GDPR — Recital 93
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_93"); fetched 2026-10-04
+
+(93) In the context of the adoption of the Member State law on which the performance of the tasks of the public authority or public body is based and which regulates the specific processing operation or set of operations in question, Member States may deem it necessary to carry out such assessment prior to the processing activities.

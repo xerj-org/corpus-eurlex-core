@@ -1,0 +1,5 @@
+GDPR — Recital 130
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_130"); fetched 2026-10-04
+
+(130) Where the supervisory authority with which the complaint has been lodged is not the lead supervisory authority, the lead supervisory authority should closely cooperate with the supervisory authority with which the complaint has been lodged in accordance with the provisions on cooperation and consistency laid down in this Regulation. In such cases, the lead supervisory authority should, when taking measures intended to produce legal effects, including the imposition of administrative fines, take utmost account of the view of the supervisory authority with which the complaint has been lodged and which should remain competent to carry out any investigation on the territory of its own Member State in liaison with the competent supervisory authority.

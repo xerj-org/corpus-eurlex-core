@@ -1,0 +1,5 @@
+GDPR — Recital 37
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_37"); fetched 2026-10-04
+
+(37) A group of undertakings should cover a controlling undertaking and its controlled undertakings, whereby the controlling undertaking should be the undertaking which can exert a dominant influence over the other undertakings by virtue, for example, of ownership, financial participation or the rules which govern it or the power to have personal data protection rules implemented. An undertaking which controls the processing of personal data in undertakings affiliated to it should be regarded, together with those undertakings, as a group of undertakings.

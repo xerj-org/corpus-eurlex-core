@@ -1,0 +1,7 @@
+DSA — Article 90
+Amendment to Directive (EU) 2020/1828
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_90"); fetched 2026-10-04
+
+In Annex I to Directive (EU) 2020/1828, the following point is added:
+‘(68) Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC (Digital Services Act) (OJ L 277, 27.10.2022, p. 1).’.

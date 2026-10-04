@@ -1,0 +1,5 @@
+NIS2 — Recital 14
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_14"); fetched 2026-10-04
+
+(14) Union data protection law and Union privacy law applies to any processing of personal data under this Directive. In particular, this Directive is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council (8) and Directive 2002/58/EC of the European Parliament and of the Council (9). This Directive should therefore not affect, inter alia, the tasks and powers of the authorities competent to monitor compliance with the applicable Union data protection law and Union privacy law.

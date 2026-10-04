@@ -1,0 +1,5 @@
+DSA — Recital 15
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_15"); fetched 2026-10-04
+
+(15) Where some of the services provided by a provider are covered by this Regulation whilst others are not, or where the services provided by a provider are covered by different sections of this Regulation, the relevant provisions of this Regulation should apply only in respect of those services that fall within their scope.

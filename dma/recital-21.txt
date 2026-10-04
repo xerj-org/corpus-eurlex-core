@@ -1,0 +1,5 @@
+DMA — Recital 21
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_21"); fetched 2026-10-04
+
+(21) An entrenched and durable position in its operations or the foreseeability of enjoying such a position in the future occurs notably where the contestability of the position of the undertaking providing the core platform service is limited. This is likely to be the case where that undertaking has provided a core platform service in at least three Member States to a very high number of business users and end users over a period of at least 3 years.

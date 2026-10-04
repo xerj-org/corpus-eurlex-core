@@ -1,0 +1,5 @@
+DMA — Recital 66
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_66"); fetched 2026-10-04
+
+(66) As an additional element to ensure proportionality, gatekeepers should be given an opportunity to request the suspension, to the extent necessary, of a specific obligation in exceptional circumstances that lie beyond the control of the gatekeeper, such as an unforeseen external shock that has temporarily eliminated a significant part of end user demand for the relevant core platform service, where compliance with a specific obligation is shown by the gatekeeper to endanger the economic viability of the Union operations of the gatekeeper concerned. The Commission should identify the exceptional circumstances justifying the suspension and review it on a regular basis in order to assess whether the conditions for granting it are still viable.

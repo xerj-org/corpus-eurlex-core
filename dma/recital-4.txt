@@ -1,0 +1,5 @@
+DMA — Recital 4
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_4"); fetched 2026-10-04
+
+(4) The combination of those features of gatekeeper is likely to lead, in many cases, to serious imbalances in bargaining power and, consequently, to unfair practices and conditions for business users, as well as for end users of core platform services provided by gatekeepers, to the detriment of prices, quality, fair competition, choice and innovation in the digital sector.

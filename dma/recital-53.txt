@@ -1,0 +1,5 @@
+DMA — Recital 53
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_53"); fetched 2026-10-04
+
+(53) Gatekeepers should not restrict or prevent the free choice of end users by technically or otherwise preventing switching between or subscription to different software applications and services. This would allow more undertakings to offer their services, thereby ultimately providing greater choice to the end users. Gatekeepers should ensure a free choice irrespective of whether they are the manufacturer of any hardware by means of which such software applications or services are accessed and should not raise artificial technical or other barriers so as to make switching impossible or ineffective. The mere offering of a given product or service to consumers, including by means of pre-installation, as well as the improvement of the offering to end users, such as price reductions or increased quality, should not be construed as constituting a prohibited barrier to switching.

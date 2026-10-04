@@ -1,0 +1,5 @@
+DMA — Recital 6
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_6"); fetched 2026-10-04
+
+(6) Gatekeepers have a significant impact on the internal market, providing gateways for a large number of business users to reach end users everywhere in the Union and on different markets. The adverse impact of unfair practices on the internal market and the particularly weak contestability of core platform services, including the negative societal and economic implications of such unfair practices, have led national legislators and sectoral regulators to act. A number of regulatory solutions have already been adopted at national level or proposed to address unfair practices and the contestability of digital services or at least with regard to some of them. This has created divergent regulatory solutions which results in the fragmentation of the internal market, thus raising the risk of increased compliance costs due to different sets of national regulatory requirements.

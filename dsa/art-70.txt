@@ -1,0 +1,7 @@
+DSA — Article 70
+Interim measures
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_70"); fetched 2026-10-04
+
+1. In the context of proceedings which may lead to the adoption of a decision of non-compliance pursuant to Article 73(1), where there is an urgency due to the risk of serious damage for the recipients of the service, the Commission may, by decision, order interim measures against the provider of the very large online platform or of the very large online search engine concerned on the basis of a prima facie finding of an infringement.
+2. A decision under paragraph 1 shall apply for a specified period of time and may be renewed in so far this is necessary and appropriate.

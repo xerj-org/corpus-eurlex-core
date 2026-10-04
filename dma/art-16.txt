@@ -1,0 +1,15 @@
+DMA — Article 16
+Opening of a market investigation
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_16"); fetched 2026-10-04
+
+1. When the Commission intends to carry out a market investigation with a view to the possible adoption of decisions pursuant to Articles 17, 18 and 19 it shall adopt a decision opening a market investigation.
+2. Notwithstanding paragraph 1, the Commission may exercise its investigative powers under this Regulation before opening a market investigation pursuant to that paragraph.
+3. The decision referred to in paragraph 1 shall specify:
+(a) the date of opening of the market investigation;
+(b) the description of the issue to which the market investigation relates to;
+(c) the purpose of the market investigation.
+4. The Commission may reopen a market investigation that it has closed where:
+(a) there has been a material change in any of the facts on which a decision adopted pursuant to Article 17, 18 or 19 was based; or
+(b) the decision adopted pursuant to Article 17, 18 or 19 was based on incomplete, incorrect or misleading information.
+5. The Commission may ask one or more national competent authorities to assist it in its market investigation.

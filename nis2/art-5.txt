@@ -1,0 +1,6 @@
+NIS2 — Article 5
+Minimum harmonisation
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_5"); fetched 2026-10-04
+
+This Directive shall not preclude Member States from adopting or maintaining provisions ensuring a higher level of cybersecurity, provided that such provisions are consistent with Member States’ obligations laid down in Union law.

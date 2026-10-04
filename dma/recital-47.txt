@@ -1,0 +1,5 @@
+DMA — Recital 47
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_47"); fetched 2026-10-04
+
+(47) Business users can also purchase online advertising services from an undertaking providing core platform services for the purpose of providing goods and services to end users. In this case, it can happen that the data are not generated on the core platform service, but are provided to the core platform service by the business user or are generated based on its operations through the core platform service concerned. In certain instances, that core platform service providing advertising can have a dual role as both an undertaking providing online advertising services and an undertaking providing services competing with business users. Accordingly, the obligation prohibiting a dual role gatekeeper from using data of business users should apply also with respect to the data that a core platform service has received from businesses for the purpose of providing online advertising services related to that core platform service.

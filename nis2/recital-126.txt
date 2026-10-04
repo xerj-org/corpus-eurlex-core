@@ -1,0 +1,5 @@
+NIS2 — Recital 126
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_126"); fetched 2026-10-04
+
+(126) In duly substantiated cases where it is aware of a significant cyber threat or an imminent risk, the competent authority should be able to take immediate enforcement decisions with the aim of preventing or responding to an incident.

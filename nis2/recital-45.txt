@@ -1,0 +1,5 @@
+NIS2 — Recital 45
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_45"); fetched 2026-10-04
+
+(45) Given the importance of international cooperation on cybersecurity, the CSIRTs should be able to participate in international cooperation networks in addition to the CSIRTs network established by this Directive. Therefore, for the purpose of carrying out their tasks, the CSIRTs and the competent authorities should be able to exchange information, including personal data, with the national computer security incident response teams or competent authorities of third countries provided that the conditions under Union data protection law for transfers of personal data to third countries, inter alia those of Article 49 of Regulation (EU) 2016/679, are met.

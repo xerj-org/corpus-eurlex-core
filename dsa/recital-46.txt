@@ -1,0 +1,5 @@
+DSA — Recital 46
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_46"); fetched 2026-10-04
+
+(46) Providers of intermediary services that are primarily directed at minors, for example through the design or marketing of the service, or which are used predominantly by minors, should make particular efforts to render the explanation of their terms and conditions easily understandable to minors.

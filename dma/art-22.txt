@@ -1,0 +1,7 @@
+DMA — Article 22
+Power to carry out interviews and take statements
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_22"); fetched 2026-10-04
+
+1. In order to carry out its duties under this Regulation, the Commission may interview any natural or legal person which consents to being interviewed, for the purpose of collecting information, relating to the subject-matter of an investigation. The Commission shall be entitled to record such interviews by any technical means.
+2. Where an interview pursuant to paragraph 1 of this Article is conducted on the premises of an undertaking, the Commission shall inform the national competent authority of the Member State that is enforcing the rules referred to in Article 1(6) and in whose territory the interview takes place thereof. If that authority so requests, its officials may assist the officials and other accompanying persons authorised by the Commission to conduct the interview.

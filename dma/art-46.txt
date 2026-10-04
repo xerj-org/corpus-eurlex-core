@@ -1,0 +1,22 @@
+DMA — Article 46
+Implementing provisions
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_46"); fetched 2026-10-04
+
+1. The Commission may adopt implementing acts laying down detailed arrangements for the application of the following:
+(a) the form, content and other details of notifications and submissions pursuant to Article 3;
+(b) the form, content and other details of the technical measures that gatekeepers shall implement in order to ensure compliance with Article 5, 6 or 7;
+(c) operational and technical arrangements in view of implementing interoperability of number-independent interpersonal communications services pursuant to Article 7;
+(d) the form, content and other details of the reasoned request pursuant to Article 8(3);
+(e) the form, content and other details of the reasoned requests pursuant to Articles 9 and 10;
+(f) the form, content and other details of the regulatory reports delivered pursuant to Article 11;
+(g) the methodology and procedure for the audited description of techniques used for profiling of consumers provided for in Article 15(1); when developing a draft implementing act for this purpose, the Commission shall consult the European Data Protection Supervisor and may consult the European Data Protection Board, civil society and other relevant experts;
+(h) the form, content and other details of notifications and submissions made pursuant to Articles 14 and 15;
+(i) the practical arrangements of the proceedings concerning the market investigations pursuant to Articles 17, 18 and 19, and proceedings pursuant to Articles 24, 25 and 29;
+(j) the practical arrangements for exercising rights to be heard provided for in Article 34;
+(k) the practical arrangements for the terms of disclosure provided for in Article 34;
+(l) the practical arrangements for the cooperation and coordination between the Commission and national authorities provided for in Articles 37 and 38; and
+(m) the practical arrangements for the calculation and extension of deadlines.
+2. The implementing acts referred to in paragraph 1, points (a) to (k), and point (m) of this Article shall be adopted in accordance with the advisory procedure referred to in Article 50(2).
+The implementing act referred to in paragraph 1, point (l), of this Article shall be adopted in accordance with the examination procedure referred to in Article 50(3).
+3. Before the adoption of any implementing act pursuant to paragraph 1, the Commission shall publish a draft thereof and invite all interested parties to submit their comments within a time limit, which may not be less than one month.

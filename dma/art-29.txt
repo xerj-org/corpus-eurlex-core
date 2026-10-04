@@ -1,0 +1,18 @@
+DMA — Article 29
+Non-compliance
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_29"); fetched 2026-10-04
+
+1. The Commission shall adopt an implementing act setting out its finding of non-compliance (‘the non-compliance decision’) where it finds that a gatekeeper does not comply with one or more of the following:
+(a) any of the obligations laid down in Article 5, 6 or 7;
+(b) measures specified by the Commission in a decision adopted pursuant to Article 8(2);
+(c) remedies imposed pursuant to Article 18(1);
+(d) interim measures ordered pursuant to Article 24; or
+(e) commitments made legally binding pursuant to Article 25.
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2).
+2. The Commission shall endeavour to adopt its non-compliance decision within 12 months from the opening of proceedings pursuant to Article 20.
+3. Before adopting the non-compliance decision, the Commission shall communicate its preliminary findings to the gatekeeper concerned. In those preliminary findings, the Commission shall explain the measures it is considering taking or that it considers that the gatekeeper should take in order to effectively address the preliminary findings.
+4. Where it intends to adopt a non-compliance decision, the Commission may consult third parties.
+5. In the non-compliance decision, the Commission shall order the gatekeeper to cease and desist with the non-compliance within an appropriate deadline and to provide explanations on how it plans to comply with that decision.
+6. The gatekeeper shall provide the Commission with the description of the measures that it has taken to ensure compliance with the non-compliance decision.
+7. Where the Commission decides not to adopt a non-compliance decision, it shall close the proceedings by a decision.

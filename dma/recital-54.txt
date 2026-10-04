@@ -1,0 +1,5 @@
+DMA — Recital 54
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_54"); fetched 2026-10-04
+
+(54) Gatekeepers can hamper the ability of end users to access online content and services, including software applications. Therefore, rules should be established to ensure that the rights of end users to access an open internet are not compromised by the conduct of gatekeepers. Gatekeepers can also technically limit the ability of end users to effectively switch between different undertakings providing internet access service, in particular through their control over hardware or operating systems. This distorts the level playing field for internet access services and ultimately harms end users. It should therefore be ensured that gatekeepers do not unduly restrict end users in choosing the undertaking providing their internet access service.

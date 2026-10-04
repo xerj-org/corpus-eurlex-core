@@ -1,0 +1,10 @@
+DSA — Article 61
+European Board for Digital Services
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_61"); fetched 2026-10-04
+
+1. An independent advisory group of Digital Services Coordinators on the supervision of providers of intermediary services named ‘European Board for Digital Services’ (the ‘Board’) is established.
+2. The Board shall advise the Digital Services Coordinators and the Commission in accordance with this Regulation to achieve the following objectives:
+(a) contributing to the consistent application of this Regulation and effective cooperation of the Digital Services Coordinators and the Commission with regard to matters covered by this Regulation;
+(b) coordinating and contributing to guidelines and analysis of the Commission and Digital Services Coordinators and other competent authorities on emerging issues across the internal market with regard to matters covered by this Regulation;
+(c) assisting the Digital Services Coordinators and the Commission in the supervision of very large online platforms.

@@ -1,0 +1,7 @@
+AI Act — Article 35
+Identification numbers and lists of notified bodies
+Regulation (EU) 2024/1689 (Artificial Intelligence Act) | CELEX:32024R1689
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_35"); fetched 2026-10-04
+
+1. The Commission shall assign a single identification number to each notified body, even where a body is notified under more than one Union act.
+2. The Commission shall make publicly available the list of the bodies notified under this Regulation, including their identification numbers and the activities for which they have been notified. The Commission shall ensure that the list is kept up to date.

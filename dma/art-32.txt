@@ -1,0 +1,13 @@
+DMA — Article 32
+Limitation periods for the imposition of penalties
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_32"); fetched 2026-10-04
+
+1. The powers conferred on the Commission by Articles 30 and 31 shall be subject to a 5 year limitation period.
+2. Time shall begin to run on the day on which the infringement is committed. However, in the case of continuing or repeated infringements, time shall begin to run on the day on which the infringement ceases.
+3. Any action taken by the Commission for the purpose of a market investigation or proceedings in respect of an infringement shall interrupt the limitation period for the imposition of fines or periodic penalty payments. The limitation period shall be interrupted with effect from the date on which the action is notified to at least one undertaking or association of undertakings which has participated in the infringement. Actions which interrupt the running of the period shall include in particular the following:
+(a) requests for information by the Commission;
+(b) written authorisations to conduct inspections issued to its officials by the Commission;
+(c) the opening of a proceeding by the Commission pursuant to Article 20.
+4. Each interruption shall start time running afresh. However, the limitation period shall expire at the latest on the day on which a period equal to twice the limitation period has elapsed without the Commission having imposed a fine or a periodic penalty payment. That period shall be extended by the time during which limitation is suspended pursuant to paragraph 5.
+5. The limitation period for the imposition of fines or periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice.

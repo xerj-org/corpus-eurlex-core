@@ -1,0 +1,5 @@
+NIS2 — Recital 107
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_107"); fetched 2026-10-04
+
+(107) Where it is suspected that an incident is related to serious criminal activities under Union or national law, Member States should encourage essential and important entities, on the basis of applicable criminal proceedings rules in accordance with Union law, to report incidents of a suspected serious criminal nature to the relevant law enforcement authorities. Where appropriate, and without prejudice to the personal data protection rules applying to Europol, it is desirable that coordination between the competent authorities and the law enforcement authorities of different Member States be facilitated by the European Cybercrime Centre (EC3) and ENISA.

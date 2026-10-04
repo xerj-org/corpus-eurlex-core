@@ -1,0 +1,5 @@
+DMA — Recital 9
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_9"); fetched 2026-10-04
+
+(9) Fragmentation of the internal market can only effectively be averted if Member States are prevented from applying national rules which are within the scope of and pursue the same objectives as this Regulation. That does not preclude the possibility of applying to gatekeepers within the meaning of this Regulation other national rules which pursue other legitimate public interest objectives as set out in the TFEU or which pursue overriding reasons of public interest as recognised by the case law of the Court of Justice of the European Union (‘the Court of Justice’).

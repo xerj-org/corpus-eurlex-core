@@ -1,0 +1,12 @@
+DSA — Article 49
+Competent authorities and Digital Services Coordinators
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_49"); fetched 2026-10-04
+
+1. Member States shall designate one or more competent authorities to be responsible for the supervision of providers of intermediary services and enforcement of this Regulation (‘competent authorities’).
+2. Member States shall designate one of the competent authorities as their Digital Services Coordinator. The Digital Services Coordinator shall be responsible for all matters relating to supervision and enforcement of this Regulation in that Member State, unless the Member State concerned has assigned certain specific tasks or sectors to other competent authorities. The Digital Services Coordinator shall in any event be responsible for ensuring coordination at national level in respect of those matters and for contributing to the effective and consistent supervision and enforcement of this Regulation throughout the Union.
+For that purpose, Digital Services Coordinators shall cooperate with each other, other national competent authorities, the Board and the Commission, without prejudice to the possibility for Member States to provide for cooperation mechanisms and regular exchanges of views between the Digital Services Coordinator and other national authorities where relevant for the performance of their respective tasks.
+Where a Member State designates one or more competent authorities in addition to the Digital Services Coordinator, it shall ensure that the respective tasks of those authorities and of the Digital Services Coordinator are clearly defined and that they cooperate closely and effectively when performing their tasks.
+3. Member States shall designate the Digital Services Coordinators by 17 February 2024.
+Member States shall make publicly available, and communicate to the Commission and the Board, the name of their competent authority designated as Digital Services Coordinator and information on how it can be contacted. The Member State concerned shall communicate to the Commission and the Board the name of the other competent authorities referred to in paragraph 2, as well as their respective tasks.
+4. The provisions applicable to Digital Services Coordinators set out in Articles 50, 51 and 56 shall also apply to any other competent authorities that the Member States designate pursuant to paragraph 1 of this Article.

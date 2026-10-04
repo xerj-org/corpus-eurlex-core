@@ -1,0 +1,5 @@
+DMA — Recital 81
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_81"); fetched 2026-10-04
+
+(81) The Commission should be empowered to request information necessary for the purpose of this Regulation. In particular, the Commission should have access to any relevant documents, data, database, algorithm and information necessary to open and conduct investigations and to monitor the compliance with the obligations laid down in this Regulation, irrespective of who possesses such information, and regardless of their form or format, their storage medium, or the place where they are stored.

@@ -1,0 +1,5 @@
+DSA — Recital 51
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_51"); fetched 2026-10-04
+
+(51) Having regard to the need to take due account of the fundamental rights guaranteed under the Charter of all parties concerned, any action taken by a provider of hosting services pursuant to receiving a notice should be strictly targeted, in the sense that it should serve to remove or disable access to the specific items of information considered to constitute illegal content, without unduly affecting the freedom of expression and of information of recipients of the service. Notices should therefore, as a general rule, be directed to the providers of hosting services that can reasonably be expected to have the technical and operational ability to act against such specific items. The providers of hosting services who receive a notice for which they cannot, for technical or operational reasons, remove the specific item of information should inform the person or entity who submitted the notice.

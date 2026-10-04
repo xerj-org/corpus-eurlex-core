@@ -1,0 +1,5 @@
+DMA — Recital 38
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_38"); fetched 2026-10-04
+
+(38) Children merit specific protection with regard to their personal data, in particular as regards the use of their personal data for the purposes of commercial communication or creating user profiles. The protection of children online is an important objective of the Union and should be reflected in the relevant Union law. In this context, due regard should be given to a Regulation on a single market for digital services. Nothing in this Regulation exempts gatekeepers from the obligation to protect children laid down in applicable Union law.

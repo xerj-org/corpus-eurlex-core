@@ -1,0 +1,5 @@
+DMA — Recital 27
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_27"); fetched 2026-10-04
+
+(27) However, such early intervention should be limited to imposing only those obligations that are necessary and appropriate to ensure that the services in question remain contestable and enable the qualified risk of unfair conditions and practices to be avoided. Obligations that prevent the undertaking providing core platform services concerned from enjoying an entrenched and durable position in its operations, such as those preventing leveraging, and those that facilitate switching and multi-homing are more directly geared towards this purpose. To ensure proportionality, the Commission should moreover apply from that subset of obligations only those that are necessary and proportionate to achieve the objectives of this Regulation and should regularly review whether such obligations should be maintained, suppressed or adapted.

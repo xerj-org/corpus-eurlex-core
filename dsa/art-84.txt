@@ -1,0 +1,6 @@
+DSA — Article 84
+Professional secrecy
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_84"); fetched 2026-10-04
+
+Without prejudice to the exchange and to the use of information referred to in this Chapter, the Commission, the Board, Member States’ competent authorities and their respective officials, servants and other persons working under their supervision, and any other natural or legal person involved, including auditors and experts appointed pursuant to Article 72(2), shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy.

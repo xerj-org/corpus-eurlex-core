@@ -1,0 +1,5 @@
+NIS2 — Recital 134
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_134"); fetched 2026-10-04
+
+(134) For the purpose of ensuring entities’ compliance with their obligations laid down in this Directive, Member States should cooperate with and assist each other with regard to supervisory and enforcement measures, in particular where an entity provides services in more than one Member State or where its network and information systems are located in a Member State other than that where it provides services. When providing assistance, the requested competent authority should take supervisory or enforcement measures in accordance with national law. In order to ensure the smooth functioning of mutual assistance under this Directive, the competent authorities should use the Cooperation Group as a forum to discuss cases and particular requests for assistance.

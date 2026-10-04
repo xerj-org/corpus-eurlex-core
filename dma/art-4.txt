@@ -1,0 +1,12 @@
+DMA — Article 4
+Review of the status of gatekeeper
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_4"); fetched 2026-10-04
+
+1. The Commission may, upon request or on its own initiative, reconsider, amend or repeal at any moment a designation decision adopted pursuant to Article 3 for one of the following reasons:
+(a) there has been a substantial change in any of the facts on which the designation decision was based;
+(b) the designation decision was based on incomplete, incorrect or misleading information.
+2. The Commission shall regularly, and at least every 3 years, review whether the gatekeepers continue to satisfy the requirements laid down in Article 3(1). That review shall also examine whether the list of core platform services of the gatekeeper which are individually an important gateway for business users to reach end users, as referred to in Article 3(1), point (b), needs to be amended. Those reviews shall have no suspending effect on the gatekeeper’s obligations.
+The Commission shall also examine at least every year whether new undertakings providing core platform services satisfy those requirements.
+Where the Commission, on the basis of the reviews pursuant to the first subparagraph, finds that the facts on which the designation of the undertakings providing core platform services as gatekeepers was based, have changed, it shall adopt a decision confirming, amending or repealing the designation decision.
+3. The Commission shall publish and update a list of gatekeepers and the list of the core platform services for which they need to comply with the obligations laid down in Chapter III on an on-going basis.

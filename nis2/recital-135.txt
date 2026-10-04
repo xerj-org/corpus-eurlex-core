@@ -1,0 +1,5 @@
+NIS2 — Recital 135
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_135"); fetched 2026-10-04
+
+(135) In order to ensure effective supervision and enforcement, in particular in a situation with a cross-border dimension, a Member State that has received a request for mutual assistance should, within the limits of that request, take appropriate supervisory and enforcement measures in relation to the entity that is the subject of that request, and that provides services or has a network and information system on the territory of that Member State.

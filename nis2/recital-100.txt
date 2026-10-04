@@ -1,0 +1,5 @@
+NIS2 — Recital 100
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_100"); fetched 2026-10-04
+
+(100) In order to safeguard the functionality and integrity of the internet and to promote the security and resilience of the DNS, relevant stakeholders including Union private-sector entities, providers of publicly available electronic communications services, in particular internet access service providers, and providers of online search engines should be encouraged to adopt a DNS resolution diversification strategy. Furthermore, Member States should encourage the development and use of a public and secure European DNS resolver service.

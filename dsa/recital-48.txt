@@ -1,0 +1,5 @@
+DSA — Recital 48
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_48"); fetched 2026-10-04
+
+(48) Given their special role and reach, it is appropriate to impose on very large online platforms and very large online search engines additional requirements regarding information and transparency of their terms and conditions. Consequently, providers of very large online platforms and very large online search engines should provide their terms and conditions in the official languages of all Member States in which they offer their services and should also provide recipients of the services with a concise and easily readable summary of the main elements of the terms and conditions. Such summaries should identify the main elements of the information requirements, including the possibility of easily opting out from optional clauses.

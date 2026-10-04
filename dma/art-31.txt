@@ -1,0 +1,15 @@
+DMA — Article 31
+Periodic penalty payments
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_31"); fetched 2026-10-04
+
+1. The Commission may adopt a decision imposing on undertakings, including gatekeepers where applicable, and associations of undertakings periodic penalty payments not exceeding 5 % of the average daily worldwide turnover in the preceding financial year per day, calculated from the date set by that decision, in order to compel them:
+(a) to comply with the measures specified by the Commission in a decision adopted pursuant to Article 8(2);
+(b) to comply with the decision pursuant to Article 18(1);
+(c) to supply correct and complete information within the time limit required by a request for information made by decision pursuant to Article 21;
+(d) to ensure access to data, algorithms and information about testing in response to a request made pursuant to Article 21(3) and to supply explanations on those as required by a decision pursuant to Article 21;
+(e) to submit to an inspection which was ordered by a decision taken pursuant to Article 23;
+(f) to comply with a decision ordering interim measures taken pursuant to Article 24;
+(g) to comply with commitments made legally binding by a decision pursuant to Article 25(1);
+(h) to comply with a decision pursuant to Article 29(1).
+2. Where the undertakings, or associations of undertakings, have satisfied the obligation which the periodic penalty payment was intended to enforce, the Commission may adopt an implementing act, setting the definitive amount of the periodic penalty payment at a figure lower than that which would arise under the original decision. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2).

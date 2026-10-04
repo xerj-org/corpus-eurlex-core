@@ -1,0 +1,5 @@
+NIS2 — Recital 48
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_48"); fetched 2026-10-04
+
+(48) For the purpose of achieving and maintaining a high level of cybersecurity, the national cybersecurity strategies required under this Directive should consist of coherent frameworks providing strategic objectives and priorities in the area of cybersecurity and the governance to achieve them. Those strategies can be composed of one or more legislative or non-legislative instruments.

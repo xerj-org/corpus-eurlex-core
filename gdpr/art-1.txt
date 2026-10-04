@@ -1,0 +1,8 @@
+GDPR — Article 1
+Subject-matter and objectives
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_1"); fetched 2026-10-04
+
+1. This Regulation lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data.
+2. This Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.
+3. The free movement of personal data within the Union shall be neither restricted nor prohibited for reasons connected with the protection of natural persons with regard to the processing of personal data.

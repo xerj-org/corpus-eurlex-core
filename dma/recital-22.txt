@@ -1,0 +1,5 @@
+DMA — Recital 22
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_22"); fetched 2026-10-04
+
+(22) Such thresholds can be affected by market and technical developments. The Commission should therefore be empowered to adopt delegated acts to specify the methodology for determining whether the quantitative thresholds are met, and to regularly adjust it to market and technological developments where necessary. Such delegated acts should not amend the quantitative thresholds set out in this Regulation.

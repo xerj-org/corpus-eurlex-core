@@ -1,0 +1,5 @@
+DSA — Recital 66
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_66"); fetched 2026-10-04
+
+(66) In order to ensure transparency and to enable scrutiny over the content moderation decisions of the providers of online platforms and monitoring the spread of illegal content online, the Commission should maintain and publish a database which contains the decisions and statements of reasons of the providers of online platforms when they remove or otherwise restrict availability of and access to information. In order to keep the database continuously updated, the providers of online platforms should submit, in a standard format, the decisions and statement of reasons without undue delay after taking a decision, to allow for real-time updates where technically possible and proportionate to the means of the online platform in question. The structured database should allow access to, and queries for, the relevant information, in particular as regards the type of alleged illegal content at stake.

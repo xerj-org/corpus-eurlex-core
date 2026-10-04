@@ -1,0 +1,10 @@
+DSA — Article 86
+Representation
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_86"); fetched 2026-10-04
+
+1. Without prejudice to Directive (EU) 2020/1828 or to any other type of representation under national law, recipients of intermediary services shall at least have the right to mandate a body, organisation or association to exercise the rights conferred by this Regulation on their behalf, provided the body, organisation or association meets all of the following conditions:
+(a) it operates on a not-for-profit basis;
+(b) it has been properly constituted in accordance with the law of a Member State;
+(c) its statutory objectives include a legitimate interest in ensuring that this Regulation is complied with.
+2. Providers of online platforms shall take the necessary technical and organisational measures to ensure that complaints submitted by bodies, organisations or associations referred to in paragraph 1 of this Article on behalf of recipients of the service through the mechanisms referred to in Article 20(1) are processed and decided upon with priority and without undue delay.

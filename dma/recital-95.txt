@@ -1,0 +1,5 @@
+DMA — Recital 95
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_95"); fetched 2026-10-04
+
+(95) It should be possible for the Commission to develop guidelines to provide further guidance on different aspects of this Regulation or to assist undertakings providing core platform services in the implementation of the obligations under this Regulation. It should be possible for such guidance to be based in particular on the experience that the Commission obtains through the monitoring of compliance with this Regulation. The issuing of any guidelines under this Regulation is a prerogative and at the sole discretion of the Commission and should not be considered to be a constitutive element in ensuring that the undertakings or associations of undertakings concerned comply with the obligations under this Regulation.

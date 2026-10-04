@@ -1,0 +1,7 @@
+DSA — Article 72
+Monitoring actions
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_72"); fetched 2026-10-04
+
+1. For the purposes of carrying out the tasks assigned to it under this Section, the Commission may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of the very large online platform and of the very large online search engines. The Commission may order them to provide access to, and explanations relating to, its databases and algorithms. Such actions may include, imposing an obligation on the provider of the very large online platform or of the very large online search engine to retain all documents deemed to be necessary to assess the implementation of and compliance with the obligations under this Regulation.
+2. The actions pursuant to paragraph 1 may include the appointment of independent external experts and auditors, as well as experts and auditors from competent national authorities with the agreement of the authority concerned, to assist the Commission in monitoring the effective implementation and compliance with the relevant provisions of this Regulation and to provide specific expertise or knowledge to the Commission.

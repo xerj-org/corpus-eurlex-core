@@ -1,0 +1,5 @@
+DMA — Recital 85
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_85"); fetched 2026-10-04
+
+(85) The Commission should be able to take the necessary actions to monitor the effective implementation of and compliance with the obligations laid down in this Regulation. Such actions should include the ability of the Commission to appoint independent external experts and auditors to assist the Commission in this process, including, where applicable, from competent authorities of the Member States, such as data or consumer protection authorities. When appointing auditors, the Commission should ensure sufficient rotation.

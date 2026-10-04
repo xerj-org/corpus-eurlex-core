@@ -1,0 +1,5 @@
+DSA — Recital 19
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_19"); fetched 2026-10-04
+
+(19) In view of the different nature of the activities of ‘mere conduit’, ‘caching’ and ‘hosting’ and the different position and abilities of the providers of the services in question, it is necessary to distinguish the rules applicable to those activities, in so far as under this Regulation they are subject to different requirements and conditions and their scope differs, as interpreted by the Court of Justice of the European Union.

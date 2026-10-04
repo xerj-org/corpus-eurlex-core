@@ -1,0 +1,7 @@
+DMA — Article 37
+Cooperation with national authorities
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_37"); fetched 2026-10-04
+
+1. The Commission and Member States shall work in close cooperation and coordinate their enforcement actions to ensure coherent, effective and complementary enforcement of available legal instruments applied to gatekeepers within the meaning of this Regulation.
+2. The Commission may consult national authorities where appropriate, on any matter relating to the application of this Regulation.

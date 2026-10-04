@@ -1,0 +1,5 @@
+DSA — Recital 16
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_16"); fetched 2026-10-04
+
+(16) The legal certainty provided by the horizontal framework of conditional exemptions from liability for providers of intermediary services, laid down in Directive 2000/31/EC, has allowed many novel services to emerge and scale up across the internal market. That framework should therefore be preserved. However, in view of the divergences when transposing and applying the relevant rules at national level, and for reasons of clarity and coherence, that framework should be incorporated in this Regulation. It is also necessary to clarify certain elements of that framework, having regard to the case-law of the Court of Justice of the European Union.

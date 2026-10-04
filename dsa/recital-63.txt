@@ -1,0 +1,5 @@
+DSA — Recital 63
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_63"); fetched 2026-10-04
+
+(63) The misuse of online platforms by frequently providing manifestly illegal content or by frequently submitting manifestly unfounded notices or complaints under the mechanisms and systems, respectively, established under this Regulation undermines trust and harms the rights and legitimate interests of the parties concerned. Therefore, there is a need to put in place appropriate, proportionate and effective safeguards against such misuse, that need to respect the rights and legitimate interests of all parties involved, including the applicable fundamental rights and freedoms as enshrined in the Charter, in particular the freedom of expression. Information should be considered to be manifestly illegal content and notices or complaints should be considered manifestly unfounded where it is evident to a layperson, without any substantive analysis, that the content is illegal or, respectively, that the notices or complaints are unfounded.

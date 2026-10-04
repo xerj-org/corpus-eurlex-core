@@ -1,0 +1,5 @@
+DSA — Recital 121
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_121"); fetched 2026-10-04
+
+(121) Without prejudice to the provisions on the exemption from liability provided for in this Regulation as regards the information transmitted or stored at the request of a recipient of the service, a provider of intermediary services should be liable for the damages suffered by recipients of the service that are caused by an infringement of the obligations set out in this Regulation by that provider. Such compensation should be in accordance with the rules and procedures set out in the applicable national law and without prejudice to other possibilities for redress available under consumer protection rules.

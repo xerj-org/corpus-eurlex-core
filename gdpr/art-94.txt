@@ -1,0 +1,7 @@
+GDPR — Article 94
+Repeal of Directive 95/46/EC
+Regulation (EU) 2016/679 (General Data Protection Regulation) | CELEX:32016R0679 | OJ L 119, 4.5.2016, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_94"); fetched 2026-10-04
+
+1. Directive 95/46/EC is repealed with effect from 25 May 2018.
+2. References to the repealed Directive shall be construed as references to this Regulation. References to the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC shall be construed as references to the European Data Protection Board established by this Regulation.

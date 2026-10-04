@@ -1,0 +1,5 @@
+DMA — Recital 19
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_19"); fetched 2026-10-04
+
+(19) By contrast, there could be a number of factors concerning market capitalisation that would require an in-depth assessment in determining whether an undertaking providing core platform services should be deemed to have a significant impact on the internal market. This could be the case where the market capitalisation of the undertaking providing core platform services in preceding financial years was significantly lower than the threshold and the volatility of its market capitalisation over the observed period was disproportionate to overall equity market volatility or its market capitalisation trajectory relative to market trends was inconsistent with a rapid and unidirectional growth.

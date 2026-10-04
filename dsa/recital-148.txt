@@ -1,0 +1,5 @@
+DSA — Recital 148
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_148"); fetched 2026-10-04
+
+(148) The effective enforcement and monitoring of this Regulation requires a seamless and real-time exchange of information among the Digital Services Coordinators, the Board and the Commission, based on the information flows and procedures set out in this Regulation. This may also warrant access to this system by other competent authorities, where appropriate. At the same time, given that the information exchanged may be confidential or involving personal data, it should remain protected from unauthorised access, in accordance with the purposes for which the information has been gathered. For this reason, all communications between those authorities should take place on the basis of a reliable and secure information sharing system, whose details should be laid down in an implementing act. The information sharing system may be based on existing internal market tools, to the extent that they can meet the objectives of this Regulation in a cost-effective manner.

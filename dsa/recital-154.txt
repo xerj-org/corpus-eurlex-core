@@ -1,0 +1,5 @@
+DSA — Recital 154
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_154"); fetched 2026-10-04
+
+(154) Given the scope and impact of societal risks that may be caused by very large online platforms and very large online search engines, the need to address those risks as a matter of priority and the capacity to take the necessary measures, it is justified to limit the period after which this Regulation starts to apply to the providers of those services.

@@ -1,0 +1,5 @@
+NIS2 — Recital 44
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_44"); fetched 2026-10-04
+
+(44) The CSIRTs should have the ability, upon an essential or important entity’s request, to monitor the entity’s internet-facing assets, both on and off premises, in order to identify, understand and manage the entity’s overall organisational risks as regards newly identified supply chain compromises or critical vulnerabilities. The entity should be encouraged to communicate to the CSIRT whether it runs a privileged management interface, as this could affect the speed of undertaking mitigating actions.

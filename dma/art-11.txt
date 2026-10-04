@@ -1,0 +1,9 @@
+DMA — Article 11
+Reporting
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_11"); fetched 2026-10-04
+
+1. Within 6 months after its designation pursuant to Article 3, and in accordance with Article 3(10), the gatekeeper shall provide the Commission with a report describing in a detailed and transparent manner the measures it has implemented to ensure compliance with the obligations laid down in Articles 5, 6 and 7.
+2. Within the deadline referred to in paragraph 1, the gatekeeper shall publish and provide the Commission with a non-confidential summary of that report.
+The gatekeeper shall update that report and that non-confidential summary at least annually.
+The Commission shall make a link to that non-confidential summary available on its website.

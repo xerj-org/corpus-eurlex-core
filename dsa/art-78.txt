@@ -1,0 +1,14 @@
+DSA — Article 78
+Limitation period for the enforcement of penalties
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_78"); fetched 2026-10-04
+
+1. The power of the Commission to enforce decisions taken pursuant to Articles 74 and 76 shall be subject to a limitation period of five years.
+2. Time shall begin to run on the day on which the decision becomes final.
+3. The limitation period for the enforcement of penalties shall be interrupted:
+(a) by notification of a decision varying the original amount of the fine or periodic penalty payment or refusing an application for variation;
+(b) by any action of the Commission, or of a Member State acting at the request of the Commission, designed to enforce payment of the fine or periodic penalty payment.
+4. Each interruption shall start time running afresh.
+5. The limitation period for the enforcement of penalties shall be suspended for so long as:
+(a) time to pay is allowed;
+(b) enforcement of payment is suspended pursuant to a decision of the Court of Justice of the European Union or to a decision of a national court.

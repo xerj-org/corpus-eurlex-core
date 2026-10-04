@@ -1,0 +1,7 @@
+DSA — Article 68
+Power to take interviews and statements
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_68"); fetched 2026-10-04
+
+1. In order to carry out the tasks assigned to it under this Section, the Commission may interview any natural or legal person who consents to being interviewed for the purpose of collecting information, relating to the subject-matter of an investigation, in relation to the suspected infringement. The Commission shall be entitled to record such interview by appropriate technical means.
+2. If the interview referred to in paragraph 1 is conducted on other premises than those of the Commission, the Commission shall inform the Digital Services Coordinator of the Member State in the territory of which the interview takes place. If so requested by that Digital Services Coordinator, its officials may assist the officials and other accompanying persons authorised by the Commission to conduct the interview.

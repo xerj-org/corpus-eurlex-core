@@ -1,0 +1,5 @@
+DSA — Recital 120
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_120"); fetched 2026-10-04
+
+(120) Such an order to restrict access should not go beyond what is necessary to achieve its objective. For that purpose, it should be temporary and be addressed in principle to a provider of intermediary services, such as the relevant hosting service provider, internet service provider or domain registry or registrar, which is in a reasonable position to achieve that objective without unduly restricting access to lawful information.

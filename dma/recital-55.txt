@@ -1,0 +1,5 @@
+DMA — Recital 55
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_55"); fetched 2026-10-04
+
+(55) A gatekeeper can provide services or hardware, such as wearable devices, that access hardware or software features of a device accessed or controlled via an operating system or virtual assistant in order to offer specific functionalities to end users. In that case, competing service or hardware providers, such as providers of wearable devices, require equally effective interoperability with, and access for the purposes of interoperability to, the same hardware or software features to be able to provide a competitive offering to end users.

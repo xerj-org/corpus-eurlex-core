@@ -1,0 +1,5 @@
+DMA — Recital 41
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_41"); fetched 2026-10-04
+
+(41) The ability of end users to acquire content, subscriptions, features or other items outside the core platform services of the gatekeeper should not be undermined or restricted. In particular, a situation should be avoided whereby gatekeepers restrict end users from access to, and use of, such services via a software application running on their core platform service. For example, subscribers to online content purchased outside a software application, software application store or virtual assistant should not be prevented from accessing such online content on a software application on the core platform service of the gatekeeper simply because it was purchased outside such software application, software application store or virtual assistant.

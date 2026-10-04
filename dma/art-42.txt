@@ -1,0 +1,6 @@
+DMA — Article 42
+Representative actions
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_42"); fetched 2026-10-04
+
+Directive (EU) 2020/1828 shall apply to the representative actions brought against infringements by gatekeepers of provisions of this Regulation that harm or may harm the collective interests of consumers.

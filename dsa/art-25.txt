@@ -1,0 +1,11 @@
+DSA — Article 25
+Online interface design and organisation
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_25"); fetched 2026-10-04
+
+1. Providers of online platforms shall not design, organise or operate their online interfaces in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions.
+2. The prohibition in paragraph 1 shall not apply to practices covered by Directive 2005/29/EC or Regulation (EU) 2016/679.
+3. The Commission may issue guidelines on how paragraph 1 applies to specific practices, notably:
+(a) giving more prominence to certain choices when asking the recipient of the service for a decision;
+(b) repeatedly requesting that the recipient of the service make a choice where that choice has already been made, especially by presenting pop-ups that interfere with the user experience;
+(c) making the procedure for terminating a service more difficult than subscribing to it.

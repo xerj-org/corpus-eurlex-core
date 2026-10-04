@@ -1,0 +1,10 @@
+DSA — Article 83
+Implementing acts relating to Commission intervention
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_83"); fetched 2026-10-04
+
+In relation to the Commission intervention covered by this Section, the Commission may adopt implementing acts concerning the practical arrangements for:
+(a) the proceedings pursuant to Articles 69 and 72;
+(b) the hearings provided for in Article 79;
+(c) the negotiated disclosure of information provided for in Article 79.
+Before the adoption of any measures pursuant to the first paragraph of this Article, the Commission shall publish a draft thereof and invite all interested parties to submit their comments within the period set out therein, which shall not be less than one month. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 88.

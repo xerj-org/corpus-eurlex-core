@@ -1,0 +1,12 @@
+DSA — Article 46
+Codes of conduct for online advertising
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_46"); fetched 2026-10-04
+
+1. The Commission shall encourage and facilitate the drawing up of voluntary codes of conduct at Union level by providers of online platforms and other relevant service providers, such as providers of online advertising intermediary services, other actors involved in the programmatic advertising value chain, or organisations representing recipients of the service and civil society organisations or relevant authorities to contribute to further transparency for actors in the online advertising value chain beyond the requirements of Articles 26 and 39.
+2. The Commission shall aim to ensure that the codes of conduct pursue an effective transmission of information that fully respects the rights and interests of all parties involved, as well as a competitive, transparent and fair environment in online advertising, in accordance with Union and national law, in particular on competition and the protection of privacy and personal data. The Commission shall aim to ensure that the codes of conduct at least address the following:
+(a) the transmission of information held by providers of online advertising intermediaries to recipients of the service concerning the requirements set in Article 26(1), points (b), (c) and (d);
+(b) the transmission of information held by providers of online advertising intermediaries to the repositories pursuant to Article 39;
+(c) meaningful information on data monetisation.
+3. The Commission shall encourage the development of the codes of conduct by 18 February 2025 and their application by 18 August 2025.
+4. The Commission shall encourage all the actors in the online advertising value chain referred to in paragraph 1 to endorse the commitments stated in the codes of conduct, and to comply with them.

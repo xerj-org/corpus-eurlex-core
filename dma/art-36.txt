@@ -1,0 +1,9 @@
+DMA — Article 36
+Professional secrecy
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_36"); fetched 2026-10-04
+
+1. The information collected pursuant to this Regulation shall be used for the purposes of this Regulation.
+2. The information collected pursuant to Article 14 shall be used for the purposes of this Regulation, Regulation (EC) No 139/2004 and national merger rules.
+3. The information collected pursuant to Article 15 shall be used for the purposes of this Regulation and Regulation (EU) 2016/679.
+4. Without prejudice to the exchange and to the use of information provided for the purpose of use pursuant to Articles 38, 39, 41 and 43, the Commission, the competent authorities of the Member States, their officials, servants and other persons working under the supervision of those authorities and any natural or legal person, including auditors and experts appointed pursuant to Article 26(2), shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy.

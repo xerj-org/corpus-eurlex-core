@@ -1,0 +1,13 @@
+DMA — Article 35
+Annual reporting
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_35"); fetched 2026-10-04
+
+1. The Commission shall submit to the European Parliament and to the Council an annual report on the implementation of this Regulation and the progress made towards achieving its objectives.
+2. The report referred to in paragraph 1 shall include:
+(a) a summary of the Commission’s activities including any adopted measures or decisions and ongoing market investigations in connection with this Regulation;
+(b) the findings resulting from the monitoring of the implementation by the gatekeepers of the obligations under this Regulation;
+(c) an assessment of the audited description referred to in Article 15;
+(d) an overview of the cooperation between the Commission and national authorities in connection with this Regulation;
+(e) an overview of the activities and tasks performed by the High Level Group of Digital Regulators, including how its recommendations as regards the enforcement of this Regulation are to be implemented.
+3. The Commission shall publish the report on its website.

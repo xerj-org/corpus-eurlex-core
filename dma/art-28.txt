@@ -1,0 +1,20 @@
+DMA — Article 28
+Compliance function
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_28"); fetched 2026-10-04
+
+1. Gatekeepers shall introduce a compliance function, which is independent from the operational functions of the gatekeeper and composed of one or more compliance officers, including the head of the compliance function.
+2. The gatekeeper shall ensure that the compliance function referred to in paragraph 1 has sufficient authority, stature and resources, as well as access to the management body of the gatekeeper to monitor the compliance of the gatekeeper with this Regulation.
+3. The management body of the gatekeeper shall ensure that compliance officers appointed pursuant to paragraph 1 have the professional qualifications, knowledge, experience and ability necessary to fulfil the tasks referred to in paragraph 5.
+The management body of the gatekeeper shall also ensure that such head of the compliance function is an independent senior manager with distinct responsibility for the compliance function.
+4. The head of the compliance function shall report directly to the management body of the gatekeeper and may raise concerns and warn that body where risks of non-compliance with this Regulation arise, without prejudice to the responsibilities of the management body in its supervisory and managerial functions.
+The head of the compliance function shall not be removed without prior approval of the management body of the gatekeeper.
+5. Compliance officers appointed by the gatekeeper pursuant to paragraph 1 shall have the following tasks:
+(a) organising, monitoring and supervising the measures and activities of the gatekeepers that aim to ensure compliance with this Regulation;
+(b) informing and advising the management and employees of the gatekeeper on compliance with this Regulation;
+(c) where applicable, monitoring compliance with commitments made binding pursuant to Article 25, without prejudice to the Commission being able to appoint independent external experts pursuant to Article 26(2);
+(d) cooperating with the Commission for the purpose of this Regulation.
+6. Gatekeepers shall communicate the name and contact details of the head of the compliance function to the Commission.
+7. The management body of the gatekeeper shall define, oversee and be accountable for the implementation of the governance arrangements of the gatekeeper that ensure the independence of the compliance function, including the division of responsibilities in the organisation of the gatekeeper and the prevention of conflicts of interest.
+8. The management body shall approve and review periodically, at least once a year, the strategies and policies for taking up, managing and monitoring the compliance with this Regulation.
+9. The management body shall devote sufficient time to the management and monitoring of compliance with this Regulation. It shall actively participate in decisions relating to the management and enforcement of this Regulation and ensure that adequate resources are allocated to it.

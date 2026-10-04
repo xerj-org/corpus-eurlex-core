@@ -1,0 +1,5 @@
+NIS2 — Recital 75
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_75"); fetched 2026-10-04
+
+(75) Peer reviews should be introduced to help learn from shared experiences, strengthen mutual trust and achieve a high common level of cybersecurity. Peer reviews can lead to valuable insights and recommendations strengthening the overall cybersecurity capabilities, creating another functional path for the sharing of best practices across Member States and contributing to enhance the Member States’ levels of maturity in cybersecurity. Furthermore, peer reviews should take account of the results of similar mechanisms, such as the peer-review system of the CSIRTs network, and should add value and avoid duplication. The implementation of peer reviews should be without prejudice to Union or national law on the protection of confidential or classified information.

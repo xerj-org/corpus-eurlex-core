@@ -1,0 +1,5 @@
+NIS2 — Recital 42
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_42"); fetched 2026-10-04
+
+(42) The CSIRTs are tasked with incident handling. This includes the processing of large volumes of sometimes sensitive data. Member States should ensure that the CSIRTs have an infrastructure for information sharing and processing, as well as well-equipped staff, which ensures the confidentiality and trustworthiness of their operations. The CSIRTs could also adopt codes of conduct in that respect.

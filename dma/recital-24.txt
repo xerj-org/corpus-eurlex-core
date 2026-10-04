@@ -1,0 +1,5 @@
+DMA — Recital 24
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_24"); fetched 2026-10-04
+
+(24) Provision should also be made for the assessment of the gatekeeper role of undertakings providing core platform services which do not satisfy all of the quantitative thresholds, in light of the overall objective requirements that they have a significant impact on the internal market, act as an important gateway for business users to reach end users and benefit from an entrenched and durable position in their operations or it is foreseeable that they will do so in the near future. When the undertaking providing core platform services is a medium-sized, small or micro enterprise, the assessment should carefully take into account whether such an undertaking would be able to substantially undermine the contestability of the core platform services, since this Regulation primarily targets large undertakings with considerable economic power rather than medium-sized, small or micro enterprises.

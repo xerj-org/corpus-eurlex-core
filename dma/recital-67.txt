@@ -1,0 +1,5 @@
+DMA — Recital 67
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_67"); fetched 2026-10-04
+
+(67) In exceptional circumstances, justified on the limited grounds of public health or public security laid down in Union law and interpreted by the Court of Justice, the Commission should be able to decide that a specific obligation does not apply to a specific core platform service. If harm is caused to such public interests that could indicate that the cost to society as a whole of enforcing a certain obligation is, in a specific exceptional case, too high and thus disproportionate. Where appropriate, the Commission should be able to facilitate compliance by assessing whether a limited and duly justified suspension or exemption is justified. This should ensure the proportionality of the obligations in this Regulation without undermining the intended ex ante effects on fairness and contestability. Where such an exemption is granted, the Commission should review its decision every year.

@@ -1,0 +1,8 @@
+DMA — Article 27
+Information by third parties
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_27"); fetched 2026-10-04
+
+1. Any third party, including business users, competitors or end-users of the core platform services listed in the designation decision pursuant to Article 3(9), as well as their representatives, may inform the national competent authority of the Member State, enforcing the rules referred to in Article 1(6), or the Commission directly, about any practice or behaviour by gatekeepers that falls within the scope of this Regulation.
+2. The national competent authority of the Member State, enforcing the rules referred to in Article 1(6), and the Commission shall have full discretion as regards the appropriate measures and are under no obligation to follow-up on the information received.
+3. Where the national competent authority of the Member State, enforcing the rules referred to in Article 1(6), determines, based on the information received pursuant to paragraph 1 of this Article, that there may be an issue of non-compliance with this Regulation, it shall transfer that information to the Commission.

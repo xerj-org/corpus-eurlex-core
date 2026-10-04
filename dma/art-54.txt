@@ -1,0 +1,9 @@
+DMA — Article 54
+Entry into force and application
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_54"); fetched 2026-10-04
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+It shall apply from 2 May 2023.
+However, Article 3(6) and (7) and Articles 40, 46, 47, 48, 49 and 50 shall apply from 1 November 2022 and Article 42 and Article 43 shall apply from 25 June 2023.
+Nevertheless, if the date of 25 June 2023 precedes the date of application referred to in the second paragraph of this Article, the application of Article 42 and Article 43 shall be postponed until the date of application referred to in the second paragraph of this Article.

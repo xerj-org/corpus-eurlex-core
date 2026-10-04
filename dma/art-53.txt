@@ -1,0 +1,9 @@
+DMA — Article 53
+Review
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_53"); fetched 2026-10-04
+
+1. By 3 May 2026, and subsequently every 3 years, the Commission shall evaluate this Regulation and report to the European Parliament, the Council and the European Economic and Social Committee.
+2. The evaluations shall assess whether the aims of this Regulation of ensuring contestable and fair markets have been achieved and assess the impact of this Regulation on business users, especially SMEs, and end users. Moreover, the Commission shall evaluate if the scope of Article 7 may be extended to online social networking services.
+3. The evaluations shall establish whether it is required to modify rules, including regarding the list of core platform services laid down in Article 2, point (2), the obligations laid down in Articles 5, 6 and 7 and their enforcement, to ensure that digital markets across the Union are contestable and fair. Following the evaluations, the Commission shall take appropriate measures, which may include legislative proposals.
+4. The competent authorities of Member States shall provide any relevant information they have that the Commission may require for the purposes of drawing up the report referred to in paragraph 1.

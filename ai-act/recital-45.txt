@@ -1,0 +1,5 @@
+AI Act — Recital 45
+Regulation (EU) 2024/1689 (Artificial Intelligence Act) | CELEX:32024R1689
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_45"); fetched 2026-10-04
+
+(45) Practices that are prohibited by Union law, including data protection law, non-discrimination law, consumer protection law, and competition law, should not be affected by this Regulation.

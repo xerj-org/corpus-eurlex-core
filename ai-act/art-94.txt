@@ -1,0 +1,6 @@
+AI Act — Article 94
+Procedural rights of economic operators of the general-purpose AI model
+Regulation (EU) 2024/1689 (Artificial Intelligence Act) | CELEX:32024R1689
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_94"); fetched 2026-10-04
+
+Article 18 of Regulation (EU) 2019/1020 shall apply mutatis mutandis to the providers of the general-purpose AI model, without prejudice to more specific procedural rights provided for in this Regulation.

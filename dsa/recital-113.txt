@@ -1,0 +1,5 @@
+DSA — Recital 113
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_113"); fetched 2026-10-04
+
+(113) Member States can designate an existing national authority with the function of the Digital Services Coordinator, or with specific tasks to supervise the application and enforce this Regulation, provided that any such appointed authority complies with the requirements laid down in this Regulation, such as in relation to its independence. Moreover, Member States are in principle not precluded from merging functions within an existing authority, in accordance with Union law. The measures to that effect may include, inter alia, the preclusion to dismiss the president or a board member of a collegiate body of an existing authority before the expiry of their terms of office, on the sole ground that an institutional reform has taken place involving the merger of different functions within one authority, in the absence of any rules guaranteeing that such dismissals do not jeopardise the independence and impartiality of such members.

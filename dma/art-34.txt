@@ -1,0 +1,11 @@
+DMA — Article 34
+Right to be heard and access to the file
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_34"); fetched 2026-10-04
+
+1. Before adopting a decision pursuant to Article 8, Article 9(1), Article 10(1), Articles 17, 18, 24, 25, 29 and 30 and Article 31(2), the Commission shall give the gatekeeper or undertaking or association of undertakings concerned the opportunity of being heard on:
+(a) preliminary findings of the Commission, including any matter to which the Commission has taken objection; and
+(b) measures that the Commission may intend to take in view of the preliminary findings pursuant to point (a) of this paragraph.
+2. Gatekeepers, undertakings and associations of undertakings concerned may submit their observations to the Commission concerning the Commission’s preliminary findings within a time limit set by the Commission in its preliminary findings which may not be less than 14 days.
+3. The Commission shall base its decisions only on preliminary findings, including any matter to which the Commission has taken objection, on which gatekeepers, undertakings and associations of undertakings concerned have been able to comment.
+4. The rights of defence of the gatekeeper, undertaking or association of undertakings concerned shall be fully respected in any proceedings. The gatekeeper, undertaking or association of undertakings concerned shall be entitled to have access to the Commission's file under terms of disclosure, subject to the legitimate interest of undertakings in the protection of their business secrets. In the case of disagreement between the parties, the Commission may adopt decisions setting out those terms of disclosure. The right of access to the file of the Commission shall not extend to confidential information and internal documents of the Commission or the competent authorities of the Member States. In particular, the right of access shall not extend to correspondence between the Commission and the competent authorities of the Member States. Nothing in this paragraph shall prevent the Commission from disclosing and using information necessary to prove an infringement.

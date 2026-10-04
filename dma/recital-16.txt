@@ -1,0 +1,5 @@
+DMA — Recital 16
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_16"); fetched 2026-10-04
+
+(16) In order to ensure the effective application of this Regulation to undertakings providing core platform services which are most likely to satisfy those objective requirements, and where unfair practices weakening contestability are most prevalent and have the most impact, the Commission should be able to directly designate as gatekeepers those undertakings providing core platform services which meet certain quantitative thresholds. Such undertakings should in any event be subject to a fast designation process which should start once this Regulation becomes applicable.

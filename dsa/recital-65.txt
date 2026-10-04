@@ -1,0 +1,5 @@
+DSA — Recital 65
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_65"); fetched 2026-10-04
+
+(65) In view of the particular responsibilities and obligations of providers of online platforms, they should be made subject to transparency reporting obligations, which apply in addition to the transparency reporting obligations applicable to all providers of intermediary services under this Regulation. For the purposes of determining whether online platforms and online search engines may be very large online platforms or very large online search engines, respectively, that are subject to certain additional obligations under this Regulation, the transparency reporting obligations for online platforms and online search engines should include certain obligations relating to the publication and communication of information on the average monthly active recipients of the service in the Union.

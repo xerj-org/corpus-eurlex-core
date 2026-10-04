@@ -1,0 +1,5 @@
+DMA — Recital 56
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_56"); fetched 2026-10-04
+
+(56) Gatekeepers can also have a dual role as developers of operating systems and device manufacturers, including any technical functionality that such a device may have. For example, a gatekeeper that is a manufacturer of a device can restrict access to some of the functionalities in that device, such as near-field-communication technology, secure elements and processors, authentication mechanisms and the software used to operate those technologies, which can be required for the effective provision of a service provided together with, or in support of, the core platform service by the gatekeeper as well as by any potential third-party undertaking providing such service.

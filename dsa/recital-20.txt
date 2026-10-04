@@ -1,0 +1,5 @@
+DSA — Recital 20
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_20"); fetched 2026-10-04
+
+(20) Where a provider of intermediary services deliberately collaborates with a recipient of the services in order to undertake illegal activities, the services should not be deemed to have been provided neutrally and the provider should therefore not be able to benefit from the exemptions from liability provided for in this Regulation. This should be the case, for instance, where the provider offers its service with the main purpose of facilitating illegal activities, for example by making explicit that its purpose is to facilitate illegal activities or that its services are suited for that purpose. The fact alone that a service offers encrypted transmissions or any other system that makes the identification of the user impossible should not in itself qualify as facilitating illegal activities.

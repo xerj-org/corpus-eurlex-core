@@ -1,0 +1,19 @@
+DMA — Article 40
+The high-level group
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_40"); fetched 2026-10-04
+
+1. The Commission shall establish a high-level group for the Digital Markets Act (‘the high-level group’).
+2. The high-level group shall be composed of the following European bodies and networks:
+(a) Body of the European Regulators for Electronic Communications;
+(b) European Data Protection Supervisor and European Data Protection Board;
+(c) European Competition Network;
+(d) Consumer Protection Cooperation Network; and
+(e) European Regulatory Group of Audiovisual Media Regulators.
+3. The European bodies and networks referred to in paragraph 2 shall each have an equal number of representatives in the high-level group. The maximum number of members of the high-level group shall not exceed 30.
+4. The Commission shall provide secretariat services to the high-level group in order to facilitate its work. The high-level group shall be chaired by the Commission, which shall participate in its meetings. The high-level group shall meet upon request of the Commission at least once per calendar year. The Commission shall also convene a meeting of the group when so requested by the majority of the members composing the group in order to address a specific issue.
+5. The high-level group may provide the Commission with advice and expertise in the areas falling within the competences of its members, including:
+(a) advice and recommendations within their expertise relevant for any general matter of implementation or enforcement of this Regulation; or
+(b) advice and expertise promoting a consistent regulatory approach across different regulatory instruments.
+6. The high-level group may, in particular, identify and assess the current and potential interactions between this Regulation and the sector-specific rules applied by the national authorities composing the European bodies and networks referred to in paragraph 2 and submit an annual report to the Commission presenting such assessment and identifying potential trans-regulatory issues. Such report may be accompanied by recommendations aiming at converging towards consistent transdisciplinary approaches and synergies between the implementation of this Regulation and other sectoral regulations. The report shall be communicated to the European Parliament and to the Council.
+7. In the context of market investigations into new services and new practices, the high-level group may provide expertise to the Commission on the need to amend, add or remove rules in this Regulation, to ensure that digital markets across the Union are contestable and fair.

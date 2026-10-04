@@ -1,0 +1,12 @@
+DMA — Article 25
+Commitments
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_25"); fetched 2026-10-04
+
+1. If, during proceedings under Article 18, the gatekeeper concerned offers commitments for the relevant core platform services to ensure compliance with the obligations laid down in Articles 5, 6 and 7 the Commission may adopt an implementing act making those commitments binding on that gatekeeper and declare that there are no further grounds for action. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2).
+2. The Commission may, upon request or on its own initiative, reopen by decision the relevant proceedings, where:
+(a) there has been a material change in any of the facts on which the decision was based;
+(b) the gatekeeper concerned acts contrary to its commitments;
+(c) the decision was based on incomplete, incorrect or misleading information provided by the parties;
+(d) the commitments are not effective.
+3. If the Commission considers that the commitments submitted by the gatekeeper concerned cannot ensure effective compliance with the obligations laid down in Articles 5, 6 and 7, it shall explain the reasons for not making those commitments binding in the decision concluding the relevant proceedings.

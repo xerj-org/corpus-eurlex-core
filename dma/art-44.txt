@@ -1,0 +1,7 @@
+DMA — Article 44
+Publication of decisions
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_44"); fetched 2026-10-04
+
+1. The Commission shall publish the decisions which it takes pursuant to Articles 3 and 4, Article 8(2), Articles 9, 10, 16 to 20 and 24, Article 25(1), Articles 29, 30 and 31. Such publication shall state the names of the parties and the main content of the decision, including any penalties imposed.
+2. The publication shall have regard to the legitimate interest of gatekeepers or third parties in the protection of their confidential information.

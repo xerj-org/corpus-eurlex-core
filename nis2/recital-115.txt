@@ -1,0 +1,5 @@
+NIS2 — Recital 115
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_115"); fetched 2026-10-04
+
+(115) Where a publicly available recursive DNS service is provided by a provider of public electronic communications networks or of publicly available electronic communications services only as a part of the internet access service, the entity should be considered to fall under the jurisdiction of all the Member States where its services are provided.

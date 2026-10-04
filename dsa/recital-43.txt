@@ -1,0 +1,5 @@
+DSA — Recital 43
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_43"); fetched 2026-10-04
+
+(43) Providers of intermediary services should also be required to designate a single point of contact for recipients of services, enabling rapid, direct and efficient communication in particular by easily accessible means such as telephone numbers, email addresses, electronic contact forms, chatbots or instant messaging. It should be explicitly indicated when a recipient of the service communicates with chatbots. Providers of intermediary services should allow recipients of services to choose means of direct and efficient communication which do not solely rely on automated tools. Providers of intermediary services should make all reasonable efforts to guarantee that sufficient human and financial resources are allocated to ensure that this communication is performed in a timely and efficient manner.

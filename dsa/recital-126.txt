@@ -1,0 +1,5 @@
+DSA — Recital 126
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_126"); fetched 2026-10-04
+
+(126) The rules of this Regulation on the allocation of competence should be without prejudice to the provisions of Union law and national rules on private international law concerning jurisdiction and applicable law in civil and commercial matters, such as proceedings brought by consumers in the courts of the Member State where they are domiciled in accordance with relevant provisions of Union law. Regarding the obligations imposed by this Regulation on providers of intermediary services to inform the issuing authority of the effect given to the orders to act against illegal content and orders to provide information, the rules on allocation of competence should only apply to the supervision of enforcement of those obligations, but not to other matters related to the order, such as the competence to issue the order.

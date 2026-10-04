@@ -1,0 +1,5 @@
+DSA — Recital 21
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_21"); fetched 2026-10-04
+
+(21) A provider should be able to benefit from the exemptions from liability for ‘mere conduit’ and for ‘caching’ services when it is in no way involved with the information transmitted or accessed. This requires, among other things, that the provider does not modify the information that it transmits or to which it provides access. However, this requirement should not be understood to cover manipulations of a technical nature which take place in the course of the transmission or access, as long as those manipulations do not alter the integrity of the information transmitted or to which access is provided.

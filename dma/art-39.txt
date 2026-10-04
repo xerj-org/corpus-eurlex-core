@@ -1,0 +1,10 @@
+DMA — Article 39
+Cooperation with national courts
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_39"); fetched 2026-10-04
+
+1. In proceedings for the application of this Regulation, national courts may ask the Commission to transmit to them information in its possession or its opinion on questions concerning the application of this Regulation.
+2. Member States shall forward to the Commission a copy of any written judgment of national courts deciding on the application of this Regulation. Such copy shall be forwarded without delay after the full written judgment is notified to the parties.
+3. Where the coherent application of this Regulation so requires, the Commission, acting on its own initiative, may submit written observations to national courts. With the permission of the court in question, it may also make oral observations.
+4. For the purpose of the preparation of their observations only, the Commission may request the relevant national court to transmit or ensure the transmission to the Commission of any documents necessary for the assessment of the case.
+5. National courts shall not give a decision which runs counter to a decision adopted by the Commission under this Regulation. They shall also avoid giving decisions which would conflict with a decision contemplated by the Commission in proceedings it has initiated under this Regulation. To that effect, the national court may assess whether it is necessary to stay its proceedings. This is without prejudice to the possibility for national courts to request a preliminary ruling under Article 267 TFEU.

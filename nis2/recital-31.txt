@@ -1,0 +1,5 @@
+NIS2 — Recital 31
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_31"); fetched 2026-10-04
+
+(31) Entities belonging to the digital infrastructure sector are in essence based on network and information systems and therefore the obligations imposed on those entities pursuant to this Directive should address in a comprehensive manner the physical security of such systems as part of their cybersecurity risk-management measures and reporting obligations. Since those matters are covered by this Directive, the obligations laid down in Chapters III, IV and VI of Directive (EU) 2022/2557 do not apply to such entities.

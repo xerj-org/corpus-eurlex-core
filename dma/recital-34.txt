@@ -1,0 +1,5 @@
+DMA — Recital 34
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_34"); fetched 2026-10-04
+
+(34) Contestability and fairness are intertwined. The lack of, or weak, contestability for a certain service can enable a gatekeeper to engage in unfair practices. Similarly, unfair practices by a gatekeeper can reduce the possibility of business users or others to contest the gatekeeper’s position. A particular obligation in this Regulation may, therefore, address both elements.

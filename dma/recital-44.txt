@@ -1,0 +1,5 @@
+DMA — Recital 44
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_44"); fetched 2026-10-04
+
+(44) The conduct of requiring business users or end users to subscribe to, or register with, any other core platform services of gatekeepers listed in the designation decision or which meet the thresholds of active end users and business users set out in this Regulation, as a condition for using, accessing, signing up for or registering with a core platform service gives the gatekeepers a means of capturing and locking-in new business users and end users for their core platform services by ensuring that business users cannot access one core platform service without also at least registering or creating an account for the purposes of receiving a second core platform service. That conduct also gives gatekeepers a potential advantage in terms of accumulation of data. As such, this conduct is liable to raise barriers to entry and should be prohibited.

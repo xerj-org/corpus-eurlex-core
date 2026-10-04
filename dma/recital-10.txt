@@ -1,0 +1,5 @@
+DMA — Recital 10
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_10"); fetched 2026-10-04
+
+(10) At the same time, since this Regulation aims to complement the enforcement of competition law, it should apply without prejudice to Articles 101 and 102 TFEU, to the corresponding national competition rules and to other national competition rules regarding unilateral conduct that are based on an individualised assessment of market positions and behaviour, including its actual or potential effects and the precise scope of the prohibited behaviour, and which provide for the possibility of undertakings to make efficiency and objective justification arguments for the behaviour in question, and to national rules concerning merger control. However, the application of those rules should not affect the obligations imposed on gatekeepers under this Regulation and their uniform and effective application in the internal market.

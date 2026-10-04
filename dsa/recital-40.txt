@@ -1,0 +1,5 @@
+DSA — Recital 40
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_40"); fetched 2026-10-04
+
+(40) In order to achieve the objectives of this Regulation, and in particular to improve the functioning of the internal market and ensure a safe and transparent online environment, it is necessary to establish a clear, effective, predictable and balanced set of harmonised due diligence obligations for providers of intermediary services. Those obligations should aim in particular to guarantee different public policy objectives such as the safety and trust of the recipients of the service, including consumers, minors and users at particular risk of being subject to hate speech, sexual harassment or other discriminatory actions, the protection of relevant fundamental rights enshrined in the Charter, the meaningful accountability of those providers and the empowerment of recipients and other affected parties, whilst facilitating the necessary oversight by competent authorities.

@@ -1,0 +1,8 @@
+DMA — Article 15
+Obligation of an audit
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_15"); fetched 2026-10-04
+
+1. Within 6 months after its designation pursuant to Article 3, a gatekeeper shall submit to the Commission an independently audited description of any techniques for profiling of consumers that the gatekeeper applies to or across its core platform services listed in the designation decision pursuant to Article 3(9). The Commission shall transmit that audited description to the European Data Protection Board.
+2. The Commission may adopt an implementing act referred to in Article 46(1), point (g), to develop the methodology and procedure of the audit.
+3. The gatekeeper shall make publicly available an overview of the audited description referred to in paragraph 1. In doing so, the gatekeeper shall be entitled to take account of the need to respect its business secrets. The gatekeeper shall update that description and that overview at least annually.

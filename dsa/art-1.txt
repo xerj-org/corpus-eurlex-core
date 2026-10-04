@@ -1,0 +1,10 @@
+DSA — Article 1
+Subject matter
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_1"); fetched 2026-10-04
+
+1. The aim of this Regulation is to contribute to the proper functioning of the internal market for intermediary services by setting out harmonised rules for a safe, predictable and trusted online environment that facilitates innovation and in which fundamental rights enshrined in the Charter, including the principle of consumer protection, are effectively protected.
+2. This Regulation lays down harmonised rules on the provision of intermediary services in the internal market. In particular, it establishes:
+(a) a framework for the conditional exemption from liability of providers of intermediary services;
+(b) rules on specific due diligence obligations tailored to certain specific categories of providers of intermediary services;
+(c) rules on the implementation and enforcement of this Regulation, including as regards the cooperation of and coordination between the competent authorities.

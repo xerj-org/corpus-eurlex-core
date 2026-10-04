@@ -1,0 +1,5 @@
+NIS2 — Recital 65
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_65"); fetched 2026-10-04
+
+(65) When developing guidance documents, the Cooperation Group should consistently map national solutions and experiences, assess the impact of Cooperation Group deliverables on national approaches, discuss implementation challenges and formulate specific recommendations, in particular as regards facilitating an alignment of the transposition of this Directive among Member States, to be addressed through a better implementation of existing rules. The Cooperation Group could also map the national solutions in order to promote compatibility of cybersecurity solutions applied to each specific sector across the Union. This is particularly relevant to sectors that have an international or cross-border nature.

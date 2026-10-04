@@ -1,0 +1,7 @@
+DMA — Article 51
+Amendment to Directive (EU) 2019/1937
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_51"); fetched 2026-10-04
+
+In Point J of Part I of the Annex to Directive (EU) 2019/1937, the following point is added:
+‘(iv) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 21.9.2022, p. 1).’

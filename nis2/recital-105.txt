@@ -1,0 +1,5 @@
+NIS2 — Recital 105
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_105"); fetched 2026-10-04
+
+(105) A proactive approach to cyber threats is a vital component of cybersecurity risk management that should enable the competent authorities to effectively prevent cyber threats from materialising into incidents that may cause considerable material or non-material damage. For that purpose, the notification of cyber threats is of key importance. To that end, entities are encouraged to report on a voluntary basis cyber threats.

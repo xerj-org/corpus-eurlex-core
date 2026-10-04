@@ -1,0 +1,5 @@
+DMA — Recital 35
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_35"); fetched 2026-10-04
+
+(35) The obligations laid down in this Regulation are therefore necessary to address identified public policy concerns, there being no alternative and less restrictive measures that would effectively achieve the same result, having regard to the need to safeguard public order, protect privacy and fight fraudulent and deceptive commercial practices.

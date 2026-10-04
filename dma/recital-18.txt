@@ -1,0 +1,5 @@
+DMA — Recital 18
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_18"); fetched 2026-10-04
+
+(18) Whereas a market capitalisation at or above the threshold in the last financial year should give rise to a presumption that an undertaking providing core platform services has a significant impact on the internal market, a sustained market capitalisation of the undertaking providing core platform services at or above the threshold over three or more years should be considered as further strengthening that presumption.

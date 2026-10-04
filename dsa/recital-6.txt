@@ -1,0 +1,5 @@
+DSA — Recital 6
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_6"); fetched 2026-10-04
+
+(6) In practice, certain providers of intermediary services intermediate in relation to services that may or may not be provided by electronic means, such as remote information technology services, transport, accommodation or delivery services. This Regulation should apply only to intermediary services and not affect requirements set out in Union or national law relating to products or services intermediated through intermediary services, including in situations where the intermediary service constitutes an integral part of another service which is not an intermediary service as recognised in the case-law of the Court of Justice of the European Union.

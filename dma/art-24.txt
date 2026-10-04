@@ -1,0 +1,6 @@
+DMA — Article 24
+Interim measures
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_24"); fetched 2026-10-04
+
+In case of urgency due to the risk of serious and irreparable damage for business users or end users of gatekeepers, the Commission may adopt an implementing act ordering interim measures against a gatekeeper on the basis of a prima facie finding of an infringement of Article 5, 6 or 7. That implementing act shall be adopted only in the context of proceedings opened with a view to the possible adoption of a non-compliance decision pursuant to Article 29(1). It shall apply only for a specified period of time and may be renewed in so far this is necessary and appropriate. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 50(2).

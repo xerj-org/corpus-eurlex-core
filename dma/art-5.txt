@@ -1,0 +1,30 @@
+DMA — Article 5
+Obligations for gatekeepers
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_5"); fetched 2026-10-04
+
+1. The gatekeeper shall comply with all obligations set out in this Article with respect to each of its core platform services listed in the designation decision pursuant to Article 3(9).
+2. The gatekeeper shall not do any of the following:
+(a) process, for the purpose of providing online advertising services, personal data of end users using services of third parties that make use of core platform services of the gatekeeper;
+(b) combine personal data from the relevant core platform service with personal data from any further core platform services or from any other services provided by the gatekeeper or with personal data from third-party services;
+(c) cross-use personal data from the relevant core platform service in other services provided separately by the gatekeeper, including other core platform services, and vice versa; and
+(d) sign in end users to other services of the gatekeeper in order to combine personal data,
+unless the end user has been presented with the specific choice and has given consent within the meaning of Article 4, point (11), and Article 7 of Regulation (EU) 2016/679.
+Where the consent given for the purposes of the first subparagraph has been refused or withdrawn by the end user, the gatekeeper shall not repeat its request for consent for the same purpose more than once within a period of one year.
+This paragraph is without prejudice to the possibility for the gatekeeper to rely on Article 6(1), points (c), (d) and (e) of Regulation (EU) 2016/679, where applicable.
+3. The gatekeeper shall not prevent business users from offering the same products or services to end users through third-party online intermediation services or through their own direct online sales channel at prices or conditions that are different from those offered through the online intermediation services of the gatekeeper.
+4. The gatekeeper shall allow business users, free of charge, to communicate and promote offers, including under different conditions, to end users acquired via its core platform service or through other channels, and to conclude contracts with those end users, regardless of whether, for that purpose, they use the core platform services of the gatekeeper.
+5. The gatekeeper shall allow end users to access and use, through its core platform services, content, subscriptions, features or other items, by using the software application of a business user, including where those end users acquired such items from the relevant business user without using the core platform services of the gatekeeper.
+6. The gatekeeper shall not directly or indirectly prevent or restrict business users or end users from raising any issue of non-compliance with the relevant Union or national law by the gatekeeper with any relevant public authority, including national courts, related to any practice of the gatekeeper. This is without prejudice to the right of business users and gatekeepers to lay down in their agreements the terms of use of lawful complaints-handling mechanisms.
+7. The gatekeeper shall not require end users to use, or business users to use, to offer, or to interoperate with, an identification service, a web browser engine or a payment service, or technical services that support the provision of payment services, such as payment systems for in-app purchases, of that gatekeeper in the context of services provided by the business users using that gatekeeper’s core platform services.
+8. The gatekeeper shall not require business users or end users to subscribe to, or register with, any further core platform services listed in the designation decision pursuant to Article 3(9) or which meet the thresholds in Article 3(2), point (b), as a condition for being able to use, access, sign up for or registering with any of that gatekeeper’s core platform services listed pursuant to that Article.
+9. The gatekeeper shall provide each advertiser to which it supplies online advertising services, or third parties authorised by advertisers, upon the advertiser’s request, with information on a daily basis free of charge, concerning each advertisement placed by the advertiser, regarding:
+(a) the price and fees paid by that advertiser, including any deductions and surcharges, for each of the relevant online advertising services provided by the gatekeeper,
+(b) the remuneration received by the publisher, including any deductions and surcharges, subject to the publisher’s consent; and
+(c) the metrics on which each of the prices, fees and remunerations are calculated.
+In the event that a publisher does not consent to the sharing of information regarding the remuneration received, as referred to in point (b) of the first subparagraph, the gatekeeper shall provide each advertiser free of charge with information concerning the daily average remuneration received by that publisher, including any deductions and surcharges, for the relevant advertisements.
+10. The gatekeeper shall provide each publisher to which it supplies online advertising services, or third parties authorised by publishers, upon the publisher’s request, with free of charge information on a daily basis, concerning each advertisement displayed on the publisher’s inventory, regarding:
+(a) the remuneration received and the fees paid by that publisher, including any deductions and surcharges, for each of the relevant online advertising services provided by the gatekeeper;
+(b) the price paid by the advertiser, including any deductions and surcharges, subject to the advertiser’s consent; and
+(c) the metrics on which each of the prices and remunerations are calculated.
+In the event an advertiser does not consent to the sharing of information, the gatekeeper shall provide each publisher free of charge with information concerning the daily average price paid by that advertiser, including any deductions and surcharges, for the relevant advertisements.

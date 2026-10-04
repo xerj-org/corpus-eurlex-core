@@ -1,0 +1,17 @@
+DMA — Article 1
+Subject matter and scope
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_1"); fetched 2026-10-04
+
+1. The purpose of this Regulation is to contribute to the proper functioning of the internal market by laying down harmonised rules ensuring for all businesses, contestable and fair markets in the digital sector across the Union where gatekeepers are present, to the benefit of business users and end users.
+2. This Regulation shall apply to core platform services provided or offered by gatekeepers to business users established in the Union or end users established or located in the Union, irrespective of the place of establishment or residence of the gatekeepers and irrespective of the law otherwise applicable to the provision of service.
+3. This Regulation shall not apply to markets related to:
+(a) electronic communications networks as defined in Article 2, point (1), of Directive (EU) 2018/1972;
+(b) electronic communications services as defined in Article 2, point (4), of Directive (EU) 2018/1972, other than those related to number-independent interpersonal communications services.
+4. With regard to interpersonal communications services as defined in Article 2, point (5) of Directive (EU) 2018/1972, this Regulation is without prejudice to the powers and responsibilities granted to the national regulatory and other competent authorities by virtue of Article 61 of that Directive.
+5. In order to avoid the fragmentation of the internal market, Member States shall not impose further obligations on gatekeepers by way of laws, regulations or administrative measures for the purpose of ensuring contestable and fair markets. Nothing in this Regulation precludes Member States from imposing obligations on undertakings, including undertakings providing core platform services, for matters falling outside the scope of this Regulation, provided that those obligations are compatible with Union law and do not result from the fact that the relevant undertakings have the status of a gatekeeper within the meaning of this Regulation.
+6. This Regulation is without prejudice to the application of Articles 101 and 102 TFEU. It is also without prejudice to the application of:
+(a) national competition rules prohibiting anti-competitive agreements, decisions by associations of undertakings, concerted practices and abuses of dominant positions;
+(b) national competition rules prohibiting other forms of unilateral conduct insofar as they are applied to undertakings other than gatekeepers or amount to the imposition of further obligations on gatekeepers; and
+(c) Council Regulation (EC) No 139/2004 (23) and national rules concerning merger control.
+7. National authorities shall not take decisions which run counter to a decision adopted by the Commission under this Regulation. The Commission and Member States shall work in close cooperation and coordinate their enforcement actions on the basis of the principles established in Articles 37 and 38.

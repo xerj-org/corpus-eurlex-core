@@ -1,0 +1,5 @@
+DSA — Recital 49
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_49"); fetched 2026-10-04
+
+(49) To ensure an adequate level of transparency and accountability, providers of intermediary services should make publicly available an annual report in a machine-readable format, in accordance with the harmonised requirements contained in this Regulation, on the content moderation in which they engage, including the measures taken as a result of the application and enforcement of their terms and conditions. However, in order to avoid disproportionate burdens, those transparency reporting obligations should not apply to providers that are micro or small enterprises as defined in Commission Recommendation 2003/361/EC (25) and which are not very large online platforms within the meaning of this Regulation.

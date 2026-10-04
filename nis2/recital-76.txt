@@ -1,0 +1,5 @@
+NIS2 — Recital 76
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_76"); fetched 2026-10-04
+
+(76) The Cooperation Group should establish a self-assessment methodology for Member States, aiming to cover factors such as the level of implementation of the cybersecurity risk-management measures and reporting obligations, the level of capabilities and the effectiveness of the exercise of the tasks of the competent authorities, the operational capabilities of the CSIRTs, the level of implementation of mutual assistance, the level of implementation of the cybersecurity information-sharing arrangements, or specific issues of cross-border or cross-sector nature. Member States should be encouraged to carry out self-assessments on a regular basis, and to present and discuss the results of their self-assessment within the Cooperation Group.

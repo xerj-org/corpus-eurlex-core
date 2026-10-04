@@ -1,0 +1,12 @@
+DMA — Article 41
+Request for a market investigation
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_41"); fetched 2026-10-04
+
+1. Three or more Member States may request the Commission to open a market investigation pursuant to Article 17 because they consider that there are reasonable grounds to suspect that an undertaking should be designated as a gatekeeper.
+2. One or more Member States may request the Commission to open a market investigation pursuant to Article 18 because they consider that there are reasonable grounds to suspect that a gatekeeper has systematically infringed one or more of the obligations laid down in Articles 5, 6 and 7 and has maintained, strengthened or extended its gatekeeper position in relation to the requirements under Article 3(1).
+3. Three or more Member States may request the Commission to conduct a market investigation pursuant to Article 19 because they consider that there are reasonable grounds to suspect that:
+(a) one or more services within the digital sector should be added to the list of core platform services laid down in Article 2, point (2), or
+(b) one or more practices are not effectively addressed by this Regulation and might limit the contestability of core platform services or be unfair.
+4. Member States shall submit evidence in support of their requests pursuant to paragraphs 1, 2 and 3. For requests pursuant to paragraph 3, such evidence may include information on newly introduced offers of products, services, software or features which raise concerns of contestability or fairness, whether implemented in the context of existing core platform services or otherwise.
+5. Within 4 months of receiving a request pursuant to this Article, the Commission shall examine whether there are reasonable grounds to open a market investigation pursuant to paragraph 1, 2 or 3. The Commission shall publish the results of its assessment.

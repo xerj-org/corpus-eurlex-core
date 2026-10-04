@@ -1,0 +1,5 @@
+AI Act — Recital 98
+Regulation (EU) 2024/1689 (Artificial Intelligence Act) | CELEX:32024R1689
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_98"); fetched 2026-10-04
+
+(98) Whereas the generality of a model could, inter alia, also be determined by a number of parameters, models with at least a billion of parameters and trained with a large amount of data using self-supervision at scale should be considered to display significant generality and to competently perform a wide range of distinctive tasks.

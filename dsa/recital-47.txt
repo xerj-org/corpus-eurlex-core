@@ -1,0 +1,5 @@
+DSA — Recital 47
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_47"); fetched 2026-10-04
+
+(47) When designing, applying and enforcing those restrictions, providers of intermediary services should act in a non-arbitrary and non-discriminatory manner and take into account the rights and legitimate interests of the recipients of the service, including fundamental rights as enshrined in the Charter. For example, providers of very large online platforms should in particular pay due regard to freedom of expression and of information, including media freedom and pluralism. All providers of intermediary services should also pay due regard to relevant international standards for the protection of human rights, such as the United Nations Guiding Principles on Business and Human Rights.

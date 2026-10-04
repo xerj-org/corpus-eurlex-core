@@ -1,0 +1,5 @@
+DSA — Recital 37
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_37"); fetched 2026-10-04
+
+(37) The orders to provide information regulated by this Regulation concern the production of specific information about individual recipients of the intermediary service concerned who are identified in those orders for the purposes of determining compliance by the recipients of the service with applicable Union or national rules. Such orders should request information with the aim of enabling the identification of the recipients of the service concerned. Therefore, orders regarding information on a group of recipients of the service who are not specifically identified, including orders to provide aggregate information required for statistical purposes or evidence-based policy-making, are not covered by the requirements of this Regulation on the provision of information.

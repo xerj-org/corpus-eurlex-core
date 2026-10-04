@@ -1,0 +1,5 @@
+DSA — Recital 131
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_131"); fetched 2026-10-04
+
+(131) In order to ensure a consistent application of this Regulation, it is necessary to set up an independent advisory group at Union level, a European Board for Digital Services, which should support the Commission and help coordinate the actions of Digital Services Coordinators. The Board should consist of the Digital Services Coordinators, where these have been appointed, without prejudice to the possibility for Digital Services Coordinators to invite in its meetings or appoint ad hoc delegates from other competent authorities entrusted with specific tasks under this Regulation, where that is required pursuant to their national allocation of tasks and competences. In case of multiple participants from one Member State, the voting right should remain limited to one representative per Member State.

@@ -1,0 +1,5 @@
+DMA — Recital 26
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_26"); fetched 2026-10-04
+
+(26) A particular subset of rules should apply to those undertakings providing core platform services for which it is foreseeable that they will enjoy an entrenched and durable position in the near future. The same specific features of core platform services make them prone to tipping: once an undertaking providing the core platform service has obtained a certain advantage over rivals or potential challengers in terms of scale or intermediation power, its position could become unassailable and the situation could evolve to the point that it is likely to become entrenched and durable in the near future. Undertakings can try to induce this tipping and emerge as gatekeeper by using some of the unfair conditions and practices regulated under this Regulation. In such a situation, it appears appropriate to intervene before the market tips irreversibly.

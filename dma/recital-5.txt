@@ -1,0 +1,5 @@
+DMA — Recital 5
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_5"); fetched 2026-10-04
+
+(5) It follows that the market processes are often incapable of ensuring fair economic outcomes with regard to core platform services. Although Articles 101 and 102 of the Treaty on the Functioning of the European Union (TFEU) apply to the conduct of gatekeepers, the scope of those provisions is limited to certain instances of market power, for example dominance on specific markets and of anti-competitive behaviour, and enforcement occurs ex post and requires an extensive investigation of often very complex facts on a case by case basis. Moreover, existing Union law does not address, or does not address effectively, the challenges to the effective functioning of the internal market posed by the conduct of gatekeepers that are not necessarily dominant in competition-law terms.

@@ -1,0 +1,5 @@
+DMA — Recital 29
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_29"); fetched 2026-10-04
+
+(29) Gatekeepers should comply with the obligations laid down in this Regulation in respect of each of the core platform services listed in the relevant designation decision. The obligations should apply taking into account the conglomerate position of gatekeepers, where applicable. Furthermore, it should be possible for the Commission to impose implementing measures on the gatekeeper by decision. Those implementing measures should be designed in an effective manner, having regard to the features of core platform services and the possible circumvention risks, and in compliance with the principle of proportionality and the fundamental rights of the undertakings concerned, as well as those of third parties.

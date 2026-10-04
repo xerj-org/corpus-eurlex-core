@@ -1,0 +1,5 @@
+DMA — Recital 79
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_79"); fetched 2026-10-04
+
+(79) In the event that gatekeepers engage in a practice that is unfair or that limits the contestability of the core platform services that are already designated under this Regulation but without such practices being explicitly covered by the obligations laid down by this Regulation, the Commission should be able to update this Regulation through delegated acts. Such updates by way of delegated act should be subject to the same investigatory standard and therefore should be preceded by a market investigation. The Commission should also apply a predefined standard in identifying such types of practices. This legal standard should ensure that the type of obligations that gatekeepers could at any time face under this Regulation are sufficiently predictable.

@@ -1,0 +1,5 @@
+DSA — Recital 100
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_100"); fetched 2026-10-04
+
+(100) In view of the additional risks relating to their activities and their additional obligations under this Regulation, additional transparency requirements should apply specifically to very large online platforms and very large online search engines, notably to report comprehensively on the risk assessments performed and subsequent measures adopted as provided by this Regulation.

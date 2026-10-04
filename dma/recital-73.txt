@@ -1,0 +1,5 @@
+DMA — Recital 73
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_73"); fetched 2026-10-04
+
+(73) In order to ensure the full and lasting achievement of the objectives of this Regulation, the Commission should be able to assess whether an undertaking providing core platform services should be designated as a gatekeeper without meeting the quantitative thresholds laid down in this Regulation; whether systematic non-compliance by a gatekeeper warrants imposing additional remedies; whether more services within the digital sector should be added to the list of core platform services; and whether additional practices that are similarly unfair and limiting the contestability of digital markets need to be investigated. Such assessment should be based on market investigations to be carried out in an appropriate timeframe, by using clear procedures and deadlines, in order to support the ex ante effect of this Regulation on contestability and fairness in the digital sector, and to provide the requisite degree of legal certainty.

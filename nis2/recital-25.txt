@@ -1,0 +1,5 @@
+NIS2 — Recital 25
+Directive (EU) 2022/2555 (NIS 2 Directive) | CELEX:32022L2555 | OJ L 333, 27.12.2022, p. 80
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_25"); fetched 2026-10-04
+
+(25) Sector-specific Union legal acts which provide for cybersecurity risk-management measures or reporting obligations that are at least equivalent in effect to those laid down in this Directive could provide that the competent authorities under such acts exercise their supervisory and enforcement powers in relation to such measures or obligations with the assistance of the competent authorities under this Directive. The competent authorities concerned could establish cooperation arrangements for that purpose. Such cooperation arrangements could specify, inter alia, the procedures concerning the coordination of supervisory activities, including the procedures of investigations and on-site inspections in accordance with national law, and a mechanism for the exchange of relevant information on supervision and enforcement between the competent authorities, including access to cyber-related information requested by the competent authorities under this Directive.

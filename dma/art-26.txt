@@ -1,0 +1,7 @@
+DMA — Article 26
+Monitoring of obligations and measures
+Regulation (EU) 2022/1925 (Digital Markets Act) | CELEX:32022R1925 | OJ L 265, 12.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="art_26"); fetched 2026-10-04
+
+1. The Commission shall take the necessary actions to monitor the effective implementation and compliance with the obligations laid down in Articles 5, 6 and 7 and the decisions taken pursuant to Articles 8, 18, 24, 25 and 29. Those actions may include, in particular, the imposition of an obligation on the gatekeeper to retain all documents deemed to be relevant to assess the implementation of, and compliance with, those obligations and decisions.
+2. The actions pursuant to paragraph 1 may include the appointment of independent external experts and auditors, as well as the appointment of officials from national competent authorities of the Member States, to assist the Commission to monitor the obligations and measures and to provide specific expertise or knowledge to the Commission.

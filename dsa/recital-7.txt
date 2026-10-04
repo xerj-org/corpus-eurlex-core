@@ -1,0 +1,5 @@
+DSA — Recital 7
+Regulation (EU) 2022/2065 (Digital Services Act) | CELEX:32022R2065 | OJ L 277, 27.10.2022, p. 1
+Source: EUR-Lex (Cellar XHTML, eli-subdivision id="rct_7"); fetched 2026-10-04
+
+(7) In order to ensure the effectiveness of the rules laid down in this Regulation and a level playing field within the internal market, those rules should apply to providers of intermediary services irrespective of their place of establishment or their location, in so far as they offer services in the Union, as evidenced by a substantial connection to the Union.
